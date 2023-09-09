@@ -1,0 +1,2 @@
+# Speech-Recognition-Model
+Speech Recognition Model is being done using Hugging face  library which automatically recognizes the speech recognition of Model.utomatic speech recognition (ASR) converts a speech signal to text, mapping a sequence of audio inputs to text outputs. Virtual assistants like Siri and Alexa use ASR models to help users everyday, and there are many other useful user-facing applications like live captioning and note-taking during meetings.

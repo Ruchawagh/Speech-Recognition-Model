@@ -5,3 +5,11 @@ Different libraries used are
 <h4>Steps followed the Project:</h4>
 <br>
 <p style="text-indent:5em">Loading the datasets from Hugging face
+Data Handling
+Converting the speech array to WAV file in bulk
+preparing the vocab file
+training the data
+Evalution of data
+Finetuning the Model
+  <h4>Aim of the Task</h4>
+<p style="text-indent:5em">To finetune the speech  Recognition Model
